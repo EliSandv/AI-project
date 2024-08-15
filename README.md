@@ -12,11 +12,11 @@ Understanding and predicting customer loyalty is a challenge for many businesses
 ### Commonality
 This issue is prevalent in various industries, especially in retail, e-commerce, and subscription-based services.
 
-### Personal Motivation
+### Personal motivation
 Improving customer loyalty insights can lead to better customer experiences, increased retention, and higher revenues. The importance of this topic lies in its potential to drive business success through data-driven decisions.
 
 ## Data and AI techniques
-### Data Sources
+### Data sources
 The project will rely on customer transaction histories, engagement metrics, feedback, and demographic data. Data can be sourced from CRM systems, social media, and direct customer interactions.
 
 ### AI techniques
